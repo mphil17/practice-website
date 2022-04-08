@@ -1,0 +1,21 @@
+body {
+    background-image: linear-gradient(rgba(131, 130, 75, 0.8), rgb(100, 99, 57));
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.title1 {
+    font-family: 'Grape Nuts', cursive;
+    color: rgb(185, 185, 185);
+    font-size: 20vh;
+    height: 150px;
+}
+.title2 {
+    font-family: 'Poppins', sans-serif;
+    color: rgb(185, 185, 185);
+    font-size: 20vh;
+    padding-top: 0px;
+    height: 150px;
+}
+.viewport-height {
+    height: 100vh;
+}
